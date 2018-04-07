@@ -16,6 +16,6 @@ class Owner
   end
 
   def self.count
-    [].size
+    all.size
   end
 end
