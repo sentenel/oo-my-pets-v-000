@@ -54,4 +54,5 @@ class Owner
       species.each {|pet| pet.mood = "nervous"}
       species.clear
     end
+  end
 end
